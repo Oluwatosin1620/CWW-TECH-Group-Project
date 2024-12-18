@@ -2,7 +2,7 @@
 Project I was opportune to be the group lead and present using PowerPoint
 
 ## Project Overview
-This data consists of 9994 rows and 21 columns. A superstore giant is seeking our knowledge on what works best for the business in the face of growing customer demands and cut-throat market competition. This is an analysis and visualization of a retail business using Microsoft Excel to discover the best approach. This project showcases my proficiency in using Excel for data visualization and MS PowerPoint for presentation. It highlights my ability to transform raw data into actionable insights.
+This data consists of 9994 rows and 21 columns. A superstore giant seeks our knowledge of what works best for the business in the face of growing customer demands and cut-throat market competition. This is an analysis and visualization of a retail business using Microsoft Excel to discover the best approach. This project showcases my proficiency in using Excel for data visualization and MS PowerPoint for presentation. It highlights my ability to transform raw data into actionable insights.
 
 
 
@@ -33,19 +33,21 @@ The following insights are driven from the data:
 3. What is the average profit for each region?
 4. Which city has the most category sales?
 5. What is the total quantity of goods sold in each region?
+6. Which state and city is having the most sales?
+7. What category of goods were sold in each segment? etc.
 
 
 
-6. ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
+8. ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
 
 
-7. ![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
+9. ![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
 
 
-8. ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
+10. ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
 
 
-9. ![image](https://github.com/user-attachments/assets/9ff802b8-e3e2-40cb-be6f-16738e5fbdd1)
+11. ![image](https://github.com/user-attachments/assets/9ff802b8-e3e2-40cb-be6f-16738e5fbdd1)
 
 
 
