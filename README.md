@@ -44,7 +44,6 @@ The following insights are driven from the data:
 ![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
 
 
-![image](https://github.com/user-attachments/assets/64d9b57f-bcbb-4aa2-8292-97ce183c3cdf)
  ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
 
 
