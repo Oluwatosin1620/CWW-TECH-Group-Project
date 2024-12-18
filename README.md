@@ -24,6 +24,7 @@ Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, 
 
 ## Microsoft Excel [VIEW PROJECT](https://us.docworkspace.com/d/sIE6eupNZg--MuwY)
 
+*Data cleaning*: The data had already been cleaned from Kaggle
 
 ## [EDA] Exploratory Data Analysis
 The following insights are driven from the data:
