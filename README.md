@@ -5,11 +5,8 @@ Project I was opportune to be the group lead and present using PowerPoint
 This data consists of 9994 rows and 21 columns. A superstore giant seeks our knowledge of what works best for the business in the face of growing customer demands and cut-throat market competition. This is an analysis and visualization of a retail business using Microsoft Excel to discover the best approach. This project showcases my proficiency in using Excel for data visualization and MS PowerPoint for presentation. It highlights my ability to transform raw data into actionable insights.
 
 
-
 ## Data Source
 The data was sourced from Kaggle
-
-## Data Description
 
 
 ## Key Features
@@ -23,6 +20,8 @@ Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, 
 
 
 ## Microsoft Excel [VIEW PROJECT](https://us.docworkspace.com/d/sIE6eupNZg--MuwY)
+---
+
 
 **Data cleaning**: The data had already been cleaned from Kaggle
 
