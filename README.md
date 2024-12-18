@@ -37,17 +37,18 @@ The following insights are driven from the data:
 7. What category of goods were sold in each segment? etc.
 
 
+ ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
 
-8. ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
-
-
-9. ![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
-
-
-10. ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
+	
+![image](https://github.com/user-attachments/assets/5717b473-21c0-41d5-968f-4b7bdb9b114a)
+![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
 
 
-11. ![image](https://github.com/user-attachments/assets/9ff802b8-e3e2-40cb-be6f-16738e5fbdd1)
+![image](https://github.com/user-attachments/assets/64d9b57f-bcbb-4aa2-8292-97ce183c3cdf)
+ ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
+
+
+ ![image](https://github.com/user-attachments/assets/9ff802b8-e3e2-40cb-be6f-16738e5fbdd1)
 
 
 
