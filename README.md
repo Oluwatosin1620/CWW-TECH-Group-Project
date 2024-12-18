@@ -2,7 +2,7 @@
 Project I was opportune to be the group lead and present using PowerPoint
 
 ## Project Overview
-This is an analysis and visualization of students' performance using Microsoft Excel to discover the factors affecting the performance of students aged 15-18. This project, my first project as a data analyst, showcases my proficiency in data visualization and presentation using MS PowerPoint, which highlights my ability to transform raw data into actionable insights.
+This data consists of 9994 rows and 21 columns. A superstore giant is seeking our knowledge on what works best for the business in the face of growing customer demands and cut-throat market competition. This is an analysis and visualization of a retail business using Microsoft Excel to discover the best approach. This project showcases my proficiency in using Excel for data visualization and MS PowerPoint for presentation. It highlights my ability to transform raw data into actionable insights.
 
 
 
