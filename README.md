@@ -1,15 +1,32 @@
 # CWW-TECH-Group-Project
 Project I was opportune to be the group lead and present using PowerPoint
 
+## Project Overview
 
 
+## Data Source
+The data was sourced from Kaggle
+
+## Data Description
 
 
+## Key Features
 
 
+## Data Tools
+* Microsoft Excel
+  > Data analysis and visualization
+* PowerPoint
+  > Data storytelling and Presentation
 
 
 Microsoft Excel [VIEW PROJECT](https://us.docworkspace.com/d/sIE6eupNZg--MuwY)
+
+
+## [EDA] Exploratory Data Analysis
+The following insights are driven from the data:
+1.
+
 
 
 2. ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
