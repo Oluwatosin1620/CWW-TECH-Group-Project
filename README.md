@@ -28,20 +28,24 @@ Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, 
 
 ## [EDA] Exploratory Data Analysis
 The following insights are driven from the data:
-1.
+1. What is the total sales and average profit for each segment in each region?
+2. What is the average discount of each sub-category in each region?
+3. What is the average profit for each region?
+4. Which city has the most category sales?
+5. What is the total quantity of goods sold in each region?
 
 
 
-2. ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
+6. ![image](https://github.com/user-attachments/assets/7e5e0379-e370-4aad-9369-ed7c88cf34cc)
 
 
-4. ![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
+7. ![image](https://github.com/user-attachments/assets/ce54cf7b-9339-4ab8-b7c3-be572fb91c2b)
 
 
-6. ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
+8. ![image](https://github.com/user-attachments/assets/992c1689-9309-4854-84f3-5d6ab08db4ff)
 
 
-7. ![image](https://github.com/user-attachments/assets/9ff802b8-e3e2-40cb-be6f-16738e5fbdd1)
+9. ![image](https://github.com/user-attachments/assets/9ff802b8-e3e2-40cb-be6f-16738e5fbdd1)
 
 
 
