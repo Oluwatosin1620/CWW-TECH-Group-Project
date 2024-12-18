@@ -13,7 +13,7 @@ The data was sourced from Kaggle
 
 
 ## Key Features
-
+Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-category, Product Name, Sales, Quantity, Discount, Profit
 
 ## Data Tools
 * Microsoft Excel
@@ -22,7 +22,7 @@ The data was sourced from Kaggle
   > Data storytelling and Presentation
 
 
-Microsoft Excel [VIEW PROJECT](https://us.docworkspace.com/d/sIE6eupNZg--MuwY)
+## Microsoft Excel [VIEW PROJECT](https://us.docworkspace.com/d/sIE6eupNZg--MuwY)
 
 
 ## [EDA] Exploratory Data Analysis
